@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FORMAT\\source\\repos\\c#lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FORMAT\\source\\repos\\c#lab\\Migrations\\20250918115725_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250918115725_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47565AAC-5504-4F6E-84BF-ADA95A7FF040}|c#lab.csproj|c:\\users\\format\\source\\repos\\c#lab\\context\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47565AAC-5504-4F6E-84BF-ADA95A7FF040}|c#lab.csproj|solutionrelative:context\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47565AAC-5504-4F6E-84BF-ADA95A7FF040}|c#lab.csproj|c:\\users\\format\\source\\repos\\c#lab\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47565AAC-5504-4F6E-84BF-ADA95A7FF040}|c#lab.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47565AAC-5504-4F6E-84BF-ADA95A7FF040}|c#lab.csproj|c:\\users\\format\\source\\repos\\c#lab\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47565AAC-5504-4F6E-84BF-ADA95A7FF040}|c#lab.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47565AAC-5504-4F6E-84BF-ADA95A7FF040}|c#lab.csproj|c:\\users\\format\\source\\repos\\c#lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47565AAC-5504-4F6E-84BF-ADA95A7FF040}|c#lab.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 226,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250918115725_init.cs",
+              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\c#lab\\Migrations\\20250918115725_init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250918115725_init.cs",
+              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\c#lab\\Migrations\\20250918115725_init.cs",
+              "RelativeToolTip": "Migrations\\20250918115725_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:57:26.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mycontext.cs",
+              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\c#lab\\context\\mycontext.cs",
+              "RelativeDocumentMoniker": "context\\mycontext.cs",
+              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\c#lab\\context\\mycontext.cs",
+              "RelativeToolTip": "context\\mycontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:33:17.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\c#lab\\models\\Employee.cs",
+              "RelativeDocumentMoniker": "models\\Employee.cs",
+              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\c#lab\\models\\Employee.cs",
+              "RelativeToolTip": "models\\Employee.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:26:10.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\c#lab\\models\\Department.cs",
+              "RelativeDocumentMoniker": "models\\Department.cs",
+              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\c#lab\\models\\Department.cs",
+              "RelativeToolTip": "models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:25:11.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\c#lab\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\c#lab\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T15:43:26.059Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
